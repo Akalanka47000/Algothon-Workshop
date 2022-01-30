@@ -28,5 +28,5 @@ YES
 NO
 NO
 Explanation 0
-(https://s3.amazonaws.com/hr-assets/0/1628364618-aab3c84665-Screenshotfrom2021-08-0800-32-56.png)
+https://s3.amazonaws.com/hr-assets/0/1628364618-aab3c84665-Screenshotfrom2021-08-0800-32-56.png
 
