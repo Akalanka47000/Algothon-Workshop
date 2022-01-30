@@ -31,7 +31,7 @@ Each of the next sets of three lines is as follows: - The first line of each tes
 
 Constraints
 
-(https://s3.amazonaws.com/hr-assets/0/1626447205-94895d1537-Screenshot2021-07-16202208.jpg
+https://s3.amazonaws.com/hr-assets/0/1626447205-94895d1537-Screenshot2021-07-16202208.jpg
 
 Output Format
 
